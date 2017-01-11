@@ -28,3 +28,9 @@ nieskonczenie wiele razy
 6
 7
 d
+Kto jest prezydentem Polski
+Bronislaw KOmorowski
+Andrzej Duda
+Jaroslaw Kaczynski
+Lech Walesa
+b
